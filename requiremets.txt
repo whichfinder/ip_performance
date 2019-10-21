@@ -114,5 +114,5 @@ umysql==2.61
 urllib3==1.23
 wcwidth==0.1.7
 websocket-client==0.54.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 zc.lockfile==1.4
