@@ -22,7 +22,7 @@ cheroot==6.5.2
 CherryPy==17.4.1
 click==6.7
 contextlib2==0.5.5
-cryptography==2.4.2
+cryptography==3.2
 cycler==0.10.0
 dataclasses==0.6
 decorator==4.3.0
