@@ -49,7 +49,7 @@ ipython==5.8.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
 jaraco.functools==1.20
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 -e git+https://github.com/Julian/jsonschema@c1a084451714e18700005117350d415664135737#egg=jsonschema
 kiwisolver==1.0.1
