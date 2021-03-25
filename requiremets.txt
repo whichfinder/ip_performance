@@ -95,7 +95,7 @@ pytest-rerunfailures==4.1
 pytest-xdist==1.22.3
 python-dateutil==2.7.3
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 requests==2.19.1
 requests-futures==0.9.7
